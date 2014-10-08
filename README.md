@@ -6,7 +6,7 @@ The FeedHenry Amazon SQS Connector. For more information on Amazon SQS see: [htt
 
 # Group Amazon SQS Connector API
 
-# Amazon SQS [/cloud/ses]
+# Amazon SQS [/cloud/sqs]
 
 List queues
 
